@@ -374,7 +374,7 @@ export default function DeadlineTab({ addXp }) {
         fontFamily:"'Bebas Neue'", fontSize:'20px', letterSpacing:'2px', transition:'all 0.2s',
         marginBottom:'20px',
       }}>
-        {!pacte.trim() ? 'DÉCLARE TON PACTE D'ABORD' : `LANCER — ${minutes}MIN`}
+          {!pacte.trim() ? "DÉCLARE TON PACTE D'ABORD" : `LANCER — ${minutes}MIN`}
       </button>
 
       {/* Log */}

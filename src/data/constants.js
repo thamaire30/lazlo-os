@@ -31,7 +31,7 @@ export const TASK_BANK = {
     { text: "Ouvrir ou vérifier ton compte bourse / PEA", xp: 40, urgent: false },
     { text: "Calculer combien tu peux épargner par mois même étudiant", xp: 60, urgent: false },
     { text: "Regarder 1 vidéo sur l'investissement passif (index funds / DCA)", xp: 40, urgent: false },
-    { text: "Lire 1 chapitre de 'L'homme le plus riche de Babylone'", xp: 55, urgent: false },
+     { text: "Lire 1 chapitre de L'homme le plus riche de Babylone", xp: 55, urgent: false },
     { text: "Simuler l'évolution de 50€/mois investis pendant 10 ans (calc compound)", xp: 70, urgent: false },
   ],
   skills: [
