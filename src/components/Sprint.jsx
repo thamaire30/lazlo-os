@@ -149,7 +149,7 @@ export default function Sprint({ addXp }) {
              focusRating === 4 ? '+20 XP BONUS' :
              focusRating === 3 ? 'XP normal' :
              focusRating === 2 ? '-10 XP (honnêteté récompensée)' :
-             '-10 XP — t'étais ailleurs, et tu le sais.'}
+             "-10 XP — t'étais ailleurs, et tu le sais."}
           </div>
         )}
       </div>
